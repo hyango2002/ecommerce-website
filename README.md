@@ -22,7 +22,7 @@ Before deploying and running the ecommerce web app, ensure that you have the fol
 
 Follow these steps to deploy the ecommerce web app:
 
-1. Clone the Repository: `git clone https://github.com/mariusforreal/ecommerce-web-app.git`
+1. Clone the Repository: `git clone https://github.com/hyango2002/ecommerce-website.git` 
 2. Configure EC2 Instances: Set up your EC2 instances with the necessary software and configurations for the web application.
 3. Configure Load Balancer: Create and configure an Elastic Load Balancer to distribute traffic among the EC2 instances.
 4. Configure Auto Scaling: Set up an Auto Scaling group to automatically adjust the number of EC2 instances based on demand.
@@ -37,6 +37,3 @@ Here are some helpful resources for understanding and implementing Elastic Load 
 - [Elastic Load Balancing Documentation](https://docs.aws.amazon.com/elasticloadbalancing/)
 - [Auto Scaling Documentation](https://docs.aws.amazon.com/autoscaling/)
 
-Note: Contact me at mariussongwa@outlook.com if you need help with high level design  documentation of VPC, Load balancer and Autoscaing etc!
-
-Happy learning 😊
